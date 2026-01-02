@@ -89,9 +89,9 @@ export const CTASection = () => {
               </Link>
             </Button>
             <Button variant="glass" size="xl" asChild>
-              <a href="tel:+22997083208" className="group">
+              <a href="tel:+2290197083208" className="group">
                 <Phone className="h-5 w-5" />
-                (+229) 97 08 32 08
+                (+229) 01 97 08 32 08
               </a>
             </Button>
           </motion.div>

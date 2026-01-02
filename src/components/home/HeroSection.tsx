@@ -121,7 +121,7 @@ export const HeroSection = () => {
               {[
                 { value: "50+", label: "Projets Réalisés" },
                 { value: "15+", label: "Clients Heureux" },
-                { value: "3+", label: "Années d'Expérience" },
+                { value: "9+", label: "Mois d'Expérience" },
                 { value: "100%", label: "Engagement Qualité" },
               ].map((stat, index) => (
                 <motion.div
