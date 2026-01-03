@@ -54,9 +54,9 @@ export const Header = () => {
               />
               <div className="absolute inset-0 rounded-xl bg-primary/20 opacity-0 group-hover:opacity-100 transition-opacity duration-300" />
             </motion.div>
-            <div className="hidden sm:block">
-              <span className="text-lg font-bold text-foreground">Fun High</span>
-              <span className="text-lg font-bold text-primary ml-1">Digital</span>
+            <div>
+              <span className="text-sm sm:text-lg font-bold text-foreground">Fun High</span>
+              <span className="text-sm sm:text-lg font-bold text-primary ml-1">Digital</span>
             </div>
           </Link>
 
