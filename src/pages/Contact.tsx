@@ -35,8 +35,8 @@ const contactInfo = [
   {
     icon: Mail,
     title: "Email",
-    details: ["julessogadji789@gmail.com"],
-    link: "mailto:julessogadji789@gmail.com",
+    details: ["funhighdigital@gmail.com"],
+    link: "mailto:funhighdigital@gmail.com",
   },
   {
     icon: Clock,

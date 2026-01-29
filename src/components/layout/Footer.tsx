@@ -75,9 +75,9 @@ export const Footer = () => {
                 <Phone className="h-4 w-4 flex-shrink-0" />
                 <span className="text-sm">(+229) 01 97 08 32 08</span>
               </a>
-              <a href="mailto:julessogadji789@gmail.com" className="flex items-center gap-3 text-muted-foreground hover:text-primary transition-colors">
+              <a href="mailto:funhighdigital@gmail.com" className="flex items-center gap-3 text-muted-foreground hover:text-primary transition-colors">
                 <Mail className="h-4 w-4 flex-shrink-0" />
-                <span className="text-sm">julessogadji789@gmail.com</span>
+                <span className="text-sm">funhighdigitalgmail.com</span>
               </a>
             </div>
           </div>
