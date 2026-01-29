@@ -10,7 +10,7 @@ const timeline = [
   {
     year: "2020-2021",
     title: "Les Germes d'une Passion",
-    description: "Tout a commencé après l'obtention du BAC. Entouré de mentors exceptionnels - des cadres expérimentés, des docteurs en informatique et des entrepreneurs aguerris - 8 mois intenses à peaufiner le projet.",
+    description: "Tout a pris forme dès l’obtention du Baccalauréat. Entouré de mentors éminents — cadres expérimentés, docteurs en informatique et entrepreneurs chevronnés — j’ai consacré huit mois intenses à perfectionner le projet. Aujourd’hui, fort d’un Master en Génie Logiciel et riche d’une expérience significative, je suis pleinement armé avec mon équipe pour la  concrétisation de vos projets",
     quote: "Le digital est le langage du futur, et tu dois l'écrire dès aujourd'hui.",
     icon: GraduationCap,
   },
